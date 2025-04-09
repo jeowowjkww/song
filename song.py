@@ -26,5 +26,5 @@ def print_lyrics():
             sleep(char_delay)
         time.sleep(delays[i])
         print('')
-
+logo()
 print_lyrics()
